@@ -1,0 +1,16 @@
+{
+  "name": "tape_video",
+  "version": "1.0.0",
+  "description": "tape video player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "video-player"
+  ],
+  "author": "",
+  "license": "ISC"
+}
